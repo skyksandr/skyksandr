@@ -1,7 +1,7 @@
 ### 初めまして。クーニン・アレクサンダーです。
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 日本語を勉強してる
 
 #### My open-source contributions
 
