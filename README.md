@@ -1,4 +1,13 @@
-### Hi there 👋
+### 初めまして。クーニン・アレクサンダーです。
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
+#### My open-source contributions
+
+- Update acme.sh to use Vultr Api V2 - https://github.com/acmesh-official/acme.sh/pull/4192 
+- Better proc/lambda route representation in `bin/rails routes`  - https://github.com/rails/rails/pull/43787
+
 
 <!--
 **skyksandr/skyksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
